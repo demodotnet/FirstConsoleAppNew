@@ -11,6 +11,7 @@ namespace FirstConsoleAppNew
         static void Main(string[] args)
         {
             Console.WriteLine("Hello WOrld");
+            Console.WriteLine("Welcome ");
         }
     }
 }
