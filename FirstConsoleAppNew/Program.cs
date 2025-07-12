@@ -12,6 +12,7 @@ namespace FirstConsoleAppNew
         {
             Console.WriteLine("Hello WOrld");
             Console.WriteLine("Welcome ");
+            Console.WriteLine("new Line added");
         }
     }
 }
